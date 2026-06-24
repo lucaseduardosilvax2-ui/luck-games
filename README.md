@@ -1,4 +1,5 @@
-# luck-games
+# lucke
+-games
 jogos para pc windows etc.
 HTML
 <!DOCTYPE html>
