@@ -1,4 +1,4 @@
-# lucke
+lucs-games
 -games
 jogos para pc windows etc.
 HTML
