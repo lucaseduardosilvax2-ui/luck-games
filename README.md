@@ -1176,37 +1176,5 @@ window.addEventListener('click', (event) => {
 window.addEventListener('DOMContentLoaded', init);
 README.md
 
-md
-# 🎮 Luck Games - Sistema de Jogos para PC (V2)
-
-Um sistema completo e moderno de gerenciamento de jogos para PC com busca, filtros avançados, favoritos e carrinho de compras!
-
-## ✨ Novas Funcionalidades (V2)
-
-✅ **Sistema de Favoritos** - Salve seus jogos favoritos (Local Storage)  
-✅ **Carrinho de Compras** - Adicione jogos ao carrinho  
-✅ **Perfil do Usuário** - Veja suas estatísticas
-✅ **48+ Jogos** - Base de dados expandida  
-✅ **Estatísticas** - Jogos visitados, favoritos, carrinho, total gasto  
-✅ **Design Melhorado** - Cores vibrantes e efeitos modernos  
-✅ **Local Storage** - Tudo salvo no navegador  
-✅ **Tema Responsivo** - Funciona em todos os dispositivos  
-
-## 🎯 Características Principais
-
-🔍 **Busca em Tempo Real** - Procure por títulos e descrições instantaneamente  
-🎮 **Filtros Avançados** - Categoria, preço e ordenação  
-💔 **Favoritos** - Salve seus jogos preferidos  
-🛒 **Carrinho** - Gerencie seus itens  
-👤 **Perfil** - Acompanhe suas atividades  
-📊 **Estatísticas** - Dashboard completo  
-🌈 **Design Moderno** - Interface intuitiva e bonita  
-📱 **Responsivo** - Mobile, tablet e desktop  
-💾 **Local Storage** - Dados salvos no navegador  
-
-## 🚀 Como Usar
-
-### 1. Clone o repositório
-```bash
 git clone https://github.com/lucaseduardosilvax2-ui/luck-games.git
 cd luck-games
